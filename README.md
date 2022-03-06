@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dev Singh Kanyal
 - 👀 I’m interested in Learning Cool Things (coding is one of them)
 - 🌱 I’m currently Learning Team Management
-### My Profile 👨‍💻🛠:
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Dev-S-K&no-frame=true&no-bg=true&theme=dark_lover"/>
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Dev-S-K&no-bg=true&no-frame=true&theme=buefy"/>
