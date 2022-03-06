@@ -8,4 +8,4 @@
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Dev-S-K)](https://github.com/anuraghazra/github-readme-stats)-->
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Dev-S-K&hide=contribs,prs,issues)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Dev-S-K&hide=contribs,prs,issues)
