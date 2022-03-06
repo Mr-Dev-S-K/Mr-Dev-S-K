@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dev Singh Kanyal
 - 👀 I’m interested in Learning Cool Things (coding is one of them)
 - 🌱 I’m currently Learning Team Management
+- ###I'm 20 years old Web Dev, Photography, Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Dev-S-K&theme=buefy" align="right">
@@ -106,6 +107,11 @@ dark_lover
 </br>
 </br>
 </br>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/dev-s-742a73118)
